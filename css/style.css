@@ -1,0 +1,18 @@
+nav a:hover{
+    color: white !important;
+  }
+
+#content-main-div {
+    background-color: #e5e5e5;
+    padding-left: 2;
+}
+
+#myModal{
+    
+    margin:0 auto;
+    position: fixed;
+    left: 0;
+    right:0;
+    top: 30%; 
+    
+}
